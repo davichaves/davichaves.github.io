@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Davi Chaves",
+    "occupation":"Developer",
+    "description":"I'm a full stack developer with experience in both mobile and web apps",
+    "image":"davi.jpg",
+    "bio":"I'm a USC graduate and I've worked with both iOS and Web development. I've been working with iOS since Summer 2014 and with Rails since January 2015. I love developing products that people will enjoy using.",
+    "email": "95.davi@gmail.com",
+    "phone": "213-425-6758",
+    "address":{
+      "street":"Beverlywood",
+      "city":"Los Angeles",
+      "state":"CA",
+      "zip": "90035"
+    },
+    "website": "http://www.davichaves.com",
+    "resumedownload":"/resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/davichavess",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/davichaves",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/davichavess",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/davichaves",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm always trying to pick up new skills and programming languages. Here are the ones that I'm strongest at:",
+    "education":[
+      {
+        "school":"University of Southern California",
+        "degree":"BS in Computer Science",
+        "graduated":"May 2018",
+        "description":"Relevant coursework: Data Structures and Object Oriented Programming, Interactive Web Development, Sofware Development. Extra curricular activities: President of the Brazilian Student Association at USC, Member of Sigma Eta Pi Entrepreneurship Fraternity. Full Tuition Scholarship Recipient."
+      }
+    ],
+    "work":[
+      {
+        "company":"Inline Digital",
+        "title":"Lead Developer ",
+        "years":"Oct 2019 - May 2020",
+        "description":"Released iPad app to the app store that was used by companies to facilitate millions in Revenue during the Paris Fashion Week. Managed and mentored team of students to develop a react web app."
+      },
+      {
+        "company":"nēdl",
+        "title":"Lead Developer",
+        "years":"Oct 2018 - Oct 2019",
+        "description":"Assisted in the development of android app using react native. Created several new features for the iOS app. Worked with outsourced team of developers to implement tasks quickly. Worked on express back end to support iOS and Android apps."
+      },
+      {
+        "company":"Paragon",
+        "title":"Lead Developer",
+        "years":"Apr 2018 - Dec 2018",
+        "description":"Implemented secure login with email verification. Implemented chat so companies and users can chat. Worked to optimize file upload to AWS S3"
+      }
+    ],
+    "skills":[
+      {
+        "name":"iOS/Swift",
+        "level":"100%"
+      },
+      {
+        "name":"JavaScript (React)",
+        "level":"90%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript (Node/Express)",
+        "level":"80%"
+      },
+      {
+        "name":"Postgresql",
+        "level":"80%"
+      },
+      {
+        "name":"iOS/Objective C",
+        "level":"70%"
+      },
+      {
+        "name":"Sketch/Figma",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Portal Evolutivo",
+        "category":"I developed an online student portal that is being used by a college in Brazil.",
+        "image":"portalevolutivo.png",
+        "url":"http://portalevolutivo.herokuapp.com"
+      },
+      {
+        "title":"Cliff Jumper",
+        "category":"iOS Game developed using Swift and SpriteBuilder.",
+        "image":"cliffjumper.png",
+        "url":"http://bit.ly/cliffjumper"
+      },
+      {
+        "title":"Vegas Blackjack Trainer",
+        "category":"App that I developed to help players train Blackjack skills.",
+        "image":"blackjacktrainer.png",
+        "url":"http://bit.ly/blackjacktrainer"
+      },
+      {
+        "title":"Brasinhas iOS app",
+        "category":"I developed an iOS app for the brasinhas blog.",
+        "image":"brasinhasapp.png",
+        "url":"http://bit.ly/brasinhas"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
