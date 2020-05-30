@@ -14,6 +14,7 @@
       "zip": "90035"
     },
     "website": "http://www.davichaves.com",
+    "resumedownload":"/resume.pdf",
     "social":[
       {
         "name":"twitter",
@@ -43,7 +44,7 @@
       {
         "school":"University of Southern California",
         "degree":"BS in Computer Science",
-        "graduated":"May 2017",
+        "graduated":"May 2018",
         "description":"Relevant coursework: Data Structures and Object Oriented Programming, Interactive Web Development, Sofware Development. Extra curricular activities: President of the Brazilian Student Association at USC, Member of Sigma Eta Pi Entrepreneurship Fraternity. Full Tuition Scholarship Recipient."
       }
     ],
